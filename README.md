@@ -25,7 +25,7 @@ An interactive data visualization project that analyzes sales performance and cu
     Total Sales,
     Total Profit,
     Quantity Sold,
-    Customer Order,s
+    Customer Orders,
     Product Subcategory Performance
    
 ## Tools Used
