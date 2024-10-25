@@ -22,10 +22,11 @@ An interactive data visualization project that analyzes sales performance and cu
 4. Dataset
    The dataset includes sales and customer data from 2021 to 2024, with metrics such as:
 
-    Total Sales
-    Total Profit
-    Quantity Sold
-    Customer Orders
+    Total Sales,
+    Total Profit,
+    Quantity Sold,
+    Customer Order,s
     Product Subcategory Performance
+   
 ## Tools Used
    Tableau: For creating interactive visualizations.
